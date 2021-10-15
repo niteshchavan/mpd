@@ -1,6 +1,5 @@
 # mpd
 MPD audio config
-
 audio_output {
         type            "alsa"  
         name            "ALSA"        
