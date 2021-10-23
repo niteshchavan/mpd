@@ -1,4 +1,5 @@
-# mpd
+# mpd 
+...
 MPD audio config
 audio_output {
         type            "alsa"  
@@ -10,3 +11,5 @@ audio_output {
         mixer_index     "0"
 
 }
+...
+#
